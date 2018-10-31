@@ -7,7 +7,7 @@ Epson投影仪使用指南
 =================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: 连接投影仪
 
 
@@ -17,8 +17,9 @@ Epson投影仪使用指南
 
 .. toctree::
    :maxdepth: 3
-   :caption: 更改设置
+   :caption: 投影仪设置
 
+   webPages/settings/start&shut.md
    webPages/settings/image_altitude.md
 
 
