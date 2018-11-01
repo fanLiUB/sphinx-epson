@@ -22,16 +22,16 @@ Epson投影仪使用指南
    webPages/settings/start&shut.md
    webPages/settings/languages.md
    webPages/settings/imageZoom.md
-
+   webPages/settings/widthHeight.md
 
 .. toctree::
    :maxdepth: 2
    :caption: 疑难杂症
 
-   webPages/problems.md
-
-
-
+   webPages/problems/imageColor.md
+   webPages/problems/imageNotRectangle.md
+   webPages/problems/noImage.md
+   webPages/problems/noSignal.md
 
 ..
  Indices and tables

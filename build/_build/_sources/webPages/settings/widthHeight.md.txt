@@ -1,0 +1,16 @@
+# 图像长宽比
+
+### 更改图像长宽比
+
+1. 打开投影机并切换至想要使用的图像源。
+2. 按遥控器上的 [Aspect] 按钮。
+![aspect](../../images/aspect.png)
+3. 请重复按 [Aspect] 按钮以选择适合您输入信号的长宽比，
+   
+### 可用的图像长宽比
+
+1. 对于分辨率 WUXGA (1920 × 1200) 或 WXGA (1280 × 800) 的投影机
+![WUXGA](../../images/WUXGA.png)
+2. 对于分辨率 XGA (1024 × 768) 或 SVGA (800 × 600) 的投影机
+![XGA](../../images/XGA.png)
+![SVGA](../../images/SVGA.png)
