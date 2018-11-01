@@ -16,11 +16,11 @@ Epson投影仪使用指南
    webPages/connections/phones.md
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: 投影仪设置
 
    webPages/settings/start&shut.md
-   webPages/settings/image_altitude.md
+   webPages/settings/imageZoom.md
 
 
 .. toctree::
